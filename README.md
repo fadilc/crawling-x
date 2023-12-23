@@ -8,8 +8,7 @@ found this ipynb from talented FTD Helmi Satria https://github.com/helmisatria w
 
 I used this to made a datasets for sentiment analytics exams at my f****** college
 
-![image](https://github.com/fadilc/crawling-x/assets/118906826/b135efa2-a24a-473e-b184-0a9ffd41a596)
-
+![image](https://github.com/fadilc/crawling-x/assets/118906826/99b97dc3-3b5d-4a81-a155-692abcf44d40)
 firstly, put the twitter auth code that u  can find from this step:
 ![image](https://github.com/fadilc/crawling-x/assets/118906826/9dc56b36-c0b8-4962-a2e5-12b55c77c918)
 open ur twitter page - right click and then click inspect - click application in top toolbar - find cookies in left section then click https/twitter.com - in the  center menu find auth_token then copy the code in the bottom of it.
