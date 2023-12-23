@@ -27,7 +27,7 @@ it took long time so kindly wait until finished.
 after finished. u can check the sample of extracted twitter data with running this code sell
 
 ![image](https://github.com/fadilc/crawling-x/assets/118906826/5b41e43e-d229-4e44-8e11-10ad93cf3881)
-to downloading ur extracted raw datasets in this menu at the right side of collabs. 
+to downloading ur extracted raw datasets in this menu at the right side of collabs. tweets data - 'ur filename'.csv - right click and download.
 
 
 
